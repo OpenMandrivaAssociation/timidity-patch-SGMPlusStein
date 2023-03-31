@@ -13,7 +13,7 @@
 
 Name:		timidity-patch-SGMPlusStein
 Version:	2.01
-Release:	2
+Release:	3
 Summary:	Patch set for MIDI audio synthesis
 Group:		Sound
 License:	Public Domain
